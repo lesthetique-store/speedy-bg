@@ -1,6 +1,6 @@
 # speedy
 
-A simple Python wrapper for the Speedy.bg REST API
+📦 A simple Python wrapper for the Speedy.bg REST API
 
 ```python
 # Example usage of SpeedyAPI
